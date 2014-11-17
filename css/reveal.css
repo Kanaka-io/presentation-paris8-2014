@@ -245,6 +245,7 @@ body {
 
 .reveal strong,
 .reveal b {
+	font-size: 120%;
 	font-weight: bold;
 }
 
